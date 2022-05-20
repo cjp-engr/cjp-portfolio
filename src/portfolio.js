@@ -15,7 +15,7 @@ const about = {
     'I am knowledgeable in Flutter and BloC as my state management solution.'+
     '\n\n'+
     'I am the type of person who wants to explore and learn anything about technologies. ',
-  resume: 'https://drive.google.com/file/d/14Eka0Myg5b_n5mRhbZK3ASTpoIrm9AoI/view?usp=sharing',
+  resume: 'https://drive.google.com/file/d/1PYlWiFksOZpBOEoA9AN7AlgZavgBZhQG/view?usp=sharing',
   social: {
     linkedin: 'https://www.linkedin.com/in/carmenjoy/',
     github: 'https://github.com/cjp-engr',
