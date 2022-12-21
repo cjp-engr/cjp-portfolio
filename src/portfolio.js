@@ -26,7 +26,7 @@ const projects = [
   {
     name: 'Todo Application',
     description:
-      'It can help increase productivity, remember important things to do and prioritize tasks effectively.',
+      'It helps increase productivity, remember important things to do and prioritize tasks effectively.',
     stack: ['Flutter', 'Firebase'],
     sourceCode: 'https://github.com/cjp-engr/cj-flutter-todo-app-w-firebase',
     livePreview: 'https://github.com',
@@ -34,7 +34,7 @@ const projects = [
   {
     name: 'News Application',
     description:
-      'It can display the latest news by category and search. The user can also check the current weather condition by searching the city. ',
+      'It displays the latest news by category and search. The user can also check the current weather condition by searching the city. ',
     stack: ['Flutter', 'Firebase'],
     sourceCode: 'https://github.com/cjp-engr/cj-flutter-news-app-w-firebase',
     livePreview: 'https://github.com',
