@@ -13,7 +13,7 @@ const about = {
     'and a passion for delivering high-quality products. My experience with Flutter has allowed me to ' +
     'create cross-platform mobile applications with a native feel, and my skills in software QA have equipped me ' +
     'with the ability to thoroughly test and debug software to ensure it meets all requirements and performs optimally.',
-  resume: 'https://drive.google.com/file/d/1IJ8c0mJgD5Z9O6wPz_yebnYmov7bNmna/view?usp=sharing',
+  resume: 'https://drive.google.com/file/d/1royKfHce-lN1qT_4UnBuw38Q57k-64zk/view?usp=sharing',
   social: {
     linkedin: 'https://www.linkedin.com/in/carmen9696/',
     github: 'https://github.com/cjp-engr',
