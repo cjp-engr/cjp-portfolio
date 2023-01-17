@@ -66,7 +66,7 @@ const projects = [
   {
     name: 'Todo Application with Clean Architecture',
     description:
-      'Coming soon. This application implementes the clean architecture. Clean architecture has several advantages including separation of concerns and modularity.',
+      'Coming soon. To be implemented with clean architecture. Clean architecture has several advantages including separation of concerns and modularity.',
     stack: ['Flutter', 'Firebase', 'Dependency Injection', 'BLoC'],
     sourceCode: 'https://github.com/cjp-engr/cj-flutter-todo-clean-architecture',
     livePreview: 'https://github.com',
