@@ -13,7 +13,7 @@ const about = {
     'and a passion for delivering high-quality products. My experience with Flutter has allowed me to ' +
     'create cross-platform mobile applications with a native feel, and my skills in software QA have equipped me ' +
     'with the ability to thoroughly test and debug software to ensure it meets all requirements and performs optimally.',
-  resume: 'https://drive.google.com/file/d/1pFrE8epen6tZnOXLKST5f8BrD5l6WPkU/view?usp=share_link',
+  resume: 'https://drive.google.com/file/d/1VDvsoZ8BTl-V0oUM6aPtmMSS87AxTgmh/view?usp=sharing',
   social: {
     linkedin: 'https://www.linkedin.com/in/carmen9696/',
     github: 'https://github.com/cjp-engr',
@@ -69,6 +69,14 @@ const projects = [
       'Coming soon. To be implemented with clean architecture. Clean architecture has several advantages including separation of concerns and modularity.',
     stack: ['Flutter', 'Firebase', 'Dependency Injection', 'BLoC'],
     sourceCode: 'https://github.com/cjp-engr/cj-flutter-todo-clean-architecture',
+    livePreview: 'https://github.com',
+  },
+  {
+    name: 'Instagram Clone with Flutter and Riverpod',
+    description:
+      'Built with Flutter and Riverpod for State management, replicates some of the features of popular social media platform.',
+    stack: ['Flutter', 'Riverpod', 'Cloud Firestore' ],
+    sourceCode: 'https://github.com/cjp-engr/cj-flutter-riverpod-instagram-clone', 
     livePreview: 'https://github.com',
   },
 ]
